@@ -1,0 +1,5 @@
+Order date,Order id,Sku id,Selling price,Order Status
+6/7/2024,JAL1324,CHAIN001,399,cancelled
+7/7/2024,JAL1325,CHAIN001,399,delivered
+8/7/2024,JAL1326,CHAIN001,399,intransit
+9/7/2024,JAL1327,CHAIN001,399,rto
